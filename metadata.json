@@ -1,0 +1,6 @@
+{
+  "name": "ELEVON",
+  "description": "Web3 Social Forum dApp with On-chain Reputation, XP, Badges, Achievements, and Off-chain Posts and Comments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
